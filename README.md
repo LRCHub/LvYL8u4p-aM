@@ -1,0 +1,105 @@
+# FLAVOR FOLEY – Spoken For
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Wake up
+Morning set in motion for me
+Clear cut
+Put on the emotion guaranteed
+And when they drag me by my feet
+Pick me up and march me to the beat
+Make me complete
+I'm miles above the street
+Staring as I pass me by,
+My self-deceit
+And I breathe
+Nothing but a shadow, it seems
+Caught up in routine
+Can they see the person beneath
+The days go by so uniformly
+Tightly controlled and
+determined for me, yeah
+Showered in fame, my fans adore me
+Only way to fuck it up
+is to be boring
+I don't get the messages,
+they don't come to me
+Everything that I can say
+is spoken for me, yeah
+Get up
+Afternoon is nauseous again
+Get fucked
+God, I'm so pathetic
+And when I rip you out my chest
+Won't you realize you're
+just obsessed?
+A fraud at best
+Drain the blood from this abscess
+Watch me as I eat my heart out,
+dispossessed
+But I breathe
+Something's got me doubting,
+it seems
+Am I anything?
+Am I even a person beneath?
+The daze of bloodstains,
+cruel and gory
+Visions of violence
+are overpowering, yeah
+Puking my guts out almost hourly
+Shaving off the numbers
+of this fucking body
+I can't read the messages,
+they come so quickly
+Please I'm begging anybody
+come and save me
+I don't get the messages,
+they don't come to me
+Everything that I can say
+is spoken for me, yeah
+I could be a friend, or
+I could be a foe
+You make the decision,
+and that's all I know
+Oh, I could be a sinner
+I could be a saint
+Perfectly devoid of
+anything I ain't
+I could be a martyr
+I could be a cause
+I can be whatever
+everybody wants
+Oh, I could be a canvas
+I could be a doll
+I don't think I'm even
+something real at all
+I could be a woman
+I could be a man
+Look into the mirror,
+tell me what I am
+Oh, I could be a difference
+I could be the same
+Try to give me meaning,
+it's a losing game
+Oh, I could go to heaven
+I could go to hell
+Does it even matter?
+I could never tell
+Oh, maybe I am nothing
+Maybe I am all
+Baby, make me something
+'fore I get that call 'cause
+I CAN'T HEAR THE MESSAGES,
+THEY JUST DON'T LET ME
+I CAN'T BEAR THE SOLITARY,
+DON'T FORGET ME
+I CAN'T READ THE MESSAGES,
+THEY COME SO SLOWLY
+I DON'T KNOW A SINGLE THING
+AND I'M SO LONELY
+I DON'T GET THE MESSAGES,
+THEY DON'T COME TO ME
+EVERYTHING THAT I CAN SAY
+IS SPOKEN FOR ME, YEAH
+```
