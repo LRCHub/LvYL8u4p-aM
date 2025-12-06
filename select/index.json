@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Spoken For",
+  "base_artist": "FLAVOR FOLEY",
+  "createdAt": "2025-12-06T05:26:24.952245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "Sammy Davis, Jr.",
+      "has_synced": false,
+      "path": "select/01_Spoken_For_Sammy_Davis,_Jr..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "MercyMe",
+      "has_synced": true,
+      "path": "select/02_Spoken_For_MercyMe.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "We Are Scientists",
+      "has_synced": true,
+      "path": "select/03_Spoken_For_We_Are_Scientists.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "Jonathan Thulin",
+      "has_synced": true,
+      "path": "select/04_Spoken_For_Jonathan_Thulin.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "Anna Akana",
+      "has_synced": false,
+      "path": "select/05_Spoken_For_Anna_Akana.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "We Are Scientists",
+      "has_synced": true,
+      "path": "select/06_Spoken_For_We_Are_Scientists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "Sammy Davis Jr.",
+      "has_synced": true,
+      "path": "select/07_Spoken_For_Sammy_Davis_Jr..lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "Sammy Davis Jr.",
+      "has_synced": true,
+      "path": "select/08_Spoken_For_Sammy_Davis_Jr..lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "Sammy Davis Jr.",
+      "has_synced": false,
+      "path": "select/09_Spoken_For_Sammy_Davis_Jr..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "She's Spoken For",
+      "artist": "You Say Party! We Say Die!",
+      "has_synced": false,
+      "path": "select/10_She's_Spoken_For_You_Say_Party!_We_Say_Die!.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "The Holdup",
+      "has_synced": true,
+      "path": "select/11_Spoken_For_The_Holdup.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'd Be More Interested If You Were Already Spoken For",
+      "artist": "You, Me, and Everyone We Know",
+      "has_synced": false,
+      "path": "select/12_I'd_Be_More_Interested_If_You_Were_Already_Spoken_For_You,_Me,_and_Everyone_We_Know.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Spoken For",
+      "artist": "MercyMe",
+      "has_synced": true,
+      "path": "select/13_Spoken_For_MercyMe.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Spoken For",
+      "artist": "FLAVOR FOLEY",
+      "has_synced": false,
+      "path": "select/pl_01_Spoken_For_FLAVOR_FOLEY.txt"
+    }
+  ]
+}
